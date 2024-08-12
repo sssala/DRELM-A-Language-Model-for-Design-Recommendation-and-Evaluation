@@ -1,2 +1,1 @@
-# DRELM-A-Language-Model-for-Design-Recommendation-and-Evaluation
-The dataset and model will be released later.
+if you want to use the dataset or model, please note.
